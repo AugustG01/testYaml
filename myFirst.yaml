@@ -1,0 +1,41 @@
+name: August
+age: 21
+
+active: true
+notact: false
+
+key:
+  key1: value1
+  key2: value2
+
+json: {key1: vale, key2: value}
+
+jobarray:
+  - items1
+  - items2
+  - items3
+
+jobarray2:
+  - item2
+  - item3
+  - {name: lene, age:55}
+
+objectarray:
+  - key: value
+  - key2: 1232
+
+objectsarray23:
+  - key:value
+    key2:value
+  - key:value
+    key2:value
+
+longText: >
+  asdasdd
+  asdasd
+
+longText2: |
+  asdas asdasd asd asd a
+  
+
+
